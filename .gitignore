@@ -8,6 +8,10 @@
 
 # production
 /build
+/src/assets
+/src/Router
+/src/Store
+/src/Views
 
 # misc
 .DS_Store

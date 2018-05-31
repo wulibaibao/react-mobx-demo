@@ -106,3 +106,5 @@ class App extends Component {
 
 export default App;
 ```
+`yarn start` start server
+`yarn build` build server
